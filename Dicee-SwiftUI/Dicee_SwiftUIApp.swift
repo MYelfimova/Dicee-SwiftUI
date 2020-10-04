@@ -15,3 +15,9 @@ struct Dicee_SwiftUIApp: App {
         }
     }
 }
+
+struct Dicee_SwiftUIApp_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
+}
